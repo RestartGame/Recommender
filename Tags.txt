@@ -1,0 +1,20 @@
+rock // 82
+blues // 52
+classic rock // 46
+country // 45
+male vocalists // 41
+guitar // 40
+70s // 38
+oldies // 35
+favorites // 35
+singer-songwriter // 32
+acoustic // 32
+folk // 32
+classic // 32
+Awesome // 30
+blues rock // 30
+hard rock // 30
+Mellow // 28
+60s // 28
+americana // 27
+pop // 25
