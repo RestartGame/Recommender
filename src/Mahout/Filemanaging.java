@@ -22,8 +22,8 @@ import de.umass.lastfm.*;
 import de.umass.xml.DomElement;
 
 public class Filemanaging {
-	protected static String key = "91aebfb61654bcb7bfe77a71400cb530";
-	protected static String user = "RestartGame";
+	protected static String key = "KEY";
+	protected static String user = "USER";
 	protected String[] Userrec;
 
 	public static void main(String args[]) throws FileNotFoundException {
